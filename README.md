@@ -1,10 +1,10 @@
 # Gocery Bud
 
-This is app serves as the frontend to an authentication app which makes use of Typescript and React-Bootstrap
+This is a simple web application that helps with your grocery list.
 
 ## Dependences
 
-- [React-Icons]https://www.npmjs.com/package/react-icons)
+- [React-Icons](https://www.npmjs.com/package/react-icons)
 
 
 
